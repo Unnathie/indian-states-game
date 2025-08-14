@@ -68,7 +68,7 @@ python main.py
 ---
 
 ## 📌 Notes  
-- Spelling still matters — “Maharastra” is not “Maharashtra.”  
+- Spelling still matters : “Maharastra” is not “Maharashtra.”  
 - Coordinates in `Indian_states.csv` are perfectly tuned for the included map.  
 - Swap in a new map + coords for endless geography quiz possibilities.  
 
