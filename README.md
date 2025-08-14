@@ -60,8 +60,8 @@ python main.py
 ---
 
 ## ✨ Features  
-- Case-insensitive matching — because “punjab” and “Punjab” deserve equal respect.  
-- No double-dipping — correct answers only count once.  
+- Case-insensitive matching : because “punjab” and “Punjab” deserve equal respect.  
+- No double-dipping : correct answers only count once.  
 - Live scoreboard right in the window title.  
 - Confetti moment (well… a winning screen) when you ace all states/UTs.  
 
