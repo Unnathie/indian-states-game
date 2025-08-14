@@ -6,7 +6,7 @@
 ---
 
 ## 🎮 Gameplay Preview  
-![Gameplay GIF](https://github.com/user-attachments/assets/4f480231-8e92-4fe3-adf9-cb9e52167b57))  
+![Gameplay GIF](https://github.com/user-attachments/assets/4f480231-8e92-4fe3-adf9-cb9e52167b57)
 *A sneak peek of the action — guess right, and the map comes alive!*  
 
 ---
